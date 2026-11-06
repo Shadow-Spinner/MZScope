@@ -135,4 +135,9 @@ mzscope/
 
 ## License
 
-No license has been added yet. Until a license is included in the repository, the usual default copyright restrictions apply. Add a license file before granting others explicit permission to reuse, modify, or distribute the code.
+MZScope is licensed under the MIT License.
+
+You are free to use, modify, distribute, and
+redistribute this software under the terms of the license.
+
+See the [LICENSE](LICENSE) file for the complete license text.
