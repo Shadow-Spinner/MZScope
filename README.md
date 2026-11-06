@@ -79,9 +79,9 @@ Pass the path to a PE file as the only command-line argument:
 Examples:
 
 ```bash
-./mzscope ./sample.exe
-./mzscope ./library.dll
-./mzscope ./driver.sys
+./mzscope sample.exe
+./mzscope library.dll
+./mzscope driver.sys
 ```
 
 MZScope prints the parsed header values and the selected characteristic checks to the terminal. If the file cannot be opened, a required header cannot be read, or a signature/format check fails, the program reports an error and exits with a non-zero status.
